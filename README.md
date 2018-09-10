@@ -53,4 +53,5 @@ include both one to a file in sub-folder and a parent folder.
 18. Validate your web page to ensure it is HTML compliant (with no errors).
 19. FTP/publish your web page to the cislinux.hfcc.edu server so it is publically available
 We will cover how to do this in-class. There is also an instructions handout in eThink/Moodle
-under the Help Section. I strongly recommend practicing this process several days a week. 
+under the Help Section. I strongly recommend practicing this process several days a week.
+
